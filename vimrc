@@ -1,3 +1,4 @@
+set nocompatible
 packloadall
 set visualbell
 set tabstop=2
